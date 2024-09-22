@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `SIDE_attack`,
-      #href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
